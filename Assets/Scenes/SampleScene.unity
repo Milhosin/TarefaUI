@@ -15508,7 +15508,11 @@ PrefabInstance:
       objectReference: {fileID: 280403162}
     - target: {fileID: 1491006637434216639, guid: e04b1517c6a0ec943857b966846d4abe, type: 3}
       propertyPath: m_Name
-      value: Jogar Button
+      value: Play Button
+      objectReference: {fileID: 0}
+    - target: {fileID: 1491006637434216639, guid: e04b1517c6a0ec943857b966846d4abe, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1858812893898889752, guid: e04b1517c6a0ec943857b966846d4abe, type: 3}
       propertyPath: particleSystem
@@ -15717,18 +15721,6 @@ PrefabInstance:
     - target: {fileID: 8373057191092200630, guid: e04b1517c6a0ec943857b966846d4abe, type: 3}
       propertyPath: m_Color.r
       value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8845812336593832329, guid: e04b1517c6a0ec943857b966846d4abe, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8845812336593832329, guid: e04b1517c6a0ec943857b966846d4abe, type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: -645
-      objectReference: {fileID: 0}
-    - target: {fileID: 8845812336593832329, guid: e04b1517c6a0ec943857b966846d4abe, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: 247
       objectReference: {fileID: 0}
     - target: {fileID: 8997379797966620491, guid: e04b1517c6a0ec943857b966846d4abe, type: 3}
       propertyPath: m_Name
